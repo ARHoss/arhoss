@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rauf Hossain</h1>
+<h1 align="center">Hi 👋, I'm Abdul Rauf Hossain</h1>
 <h3 align="center">A passionate full-stack developer from Canada</h3>
 
 - 🔭 I’m currently working on [card-game](https://arhoss.github.io/Card-Game-Of-War/index.html)
